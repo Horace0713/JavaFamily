@@ -41,7 +41,7 @@
     
     - 难懂哦 [图解 | 计算机文件系统](https://mp.weixin.qq.com/s/j2msue1Hjcwd9z1U2p0TDQ)
     - [浏览器的秘密藏在这31张图里](https://mp.weixin.qq.com/s/11MRrxmiyZybTUbjRDRubQ)
-    - [大厂面试Linux就这5个问题](https://mp.weixin.qq.com/s/24vBHgtw5efC9V9yYqknNg)
+    - 推荐[大厂面试Linux就这5个问题](https://mp.weixin.qq.com/s/24vBHgtw5efC9V9yYqknNg)
     - [Linux 内核 vs Windows 内核](https://mp.weixin.qq.com/s/7iQ5jO_qfYbwKdM21qywYg)
     - [学习linux命令，看这篇2w多字的命令详解就够了](https://mp.weixin.qq.com/s/7bSwKiPmtJbs7FtRWZZqpA)
     - [Linux IO 模型](https://mp.weixin.qq.com/s/TbIPlBtkK_zCyt54cCX8dw)
