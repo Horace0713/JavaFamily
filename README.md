@@ -52,13 +52,13 @@
     
     - [零拷贝](https://mp.weixin.qq.com/s/FgBCop2zFfcX5ZszE0NoCQ)
     
-    - [一次相亲经历，我彻底搞懂了什么叫阻塞非阻塞，同步异步](https://mp.weixin.qq.com/s/DEd0VY3dhR6B0hjQSEtB7Q)
+    - 难懂哦 [一次相亲经历，我彻底搞懂了什么叫阻塞非阻塞，同步异步](https://mp.weixin.qq.com/s/DEd0VY3dhR6B0hjQSEtB7Q)
     
   - 计算机操作系统与Linux
   
-    - [52图初探Linux通用知识](https://mp.weixin.qq.com/s/dP8AJbvGgvYIXDy3zeXCRg)
+    - 命令不常用 [52图初探Linux通用知识](https://mp.weixin.qq.com/s/dP8AJbvGgvYIXDy3zeXCRg)
     
-    - [图解 | 计算机文件系统](https://mp.weixin.qq.com/s/j2msue1Hjcwd9z1U2p0TDQ)
+    - 难懂哦 [图解 | 计算机文件系统](https://mp.weixin.qq.com/s/j2msue1Hjcwd9z1U2p0TDQ)
     - [浏览器的秘密藏在这31张图里](https://mp.weixin.qq.com/s/11MRrxmiyZybTUbjRDRubQ)
     - [大厂面试Linux就这5个问题](https://mp.weixin.qq.com/s/24vBHgtw5efC9V9yYqknNg)
     - [Linux 内核 vs Windows 内核](https://mp.weixin.qq.com/s/7iQ5jO_qfYbwKdM21qywYg)
