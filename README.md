@@ -23,7 +23,10 @@
     - [秒杀系统2.0](https://mp.weixin.qq.com/s/KWb3POodisbOEsQVblsoGw)
       
 - Java基础核心串讲
-
+    - hyg
+  
+        - [mysql行级锁加锁规则比较复杂](https://mp.weixin.qq.com/s/i5QWx3QPZNkV51ghFbtXCw)
+ 
   - Java基础知识
   
     - [Java基础面试16问](https://mp.weixin.qq.com/s/-xFSHf7Gz3FUcafTJUIGWQ)
